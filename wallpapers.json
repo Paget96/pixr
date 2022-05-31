@@ -2,8 +2,8 @@
 {
 		"name": "Nostalgia",
 		"author": "Saifur",
-		"url": "https://github.com/Paget96/pixr/blob/main/minimal/nostalgia.jpg",
-		"thumbnail": "https://github.com/Paget96/pixr/blob/main/minimal/nostalgia.jpg",
+		"url": "https://raw.githubusercontent.com/Paget96/pixr/blob/main/minimal/nostalgia.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/pixr/blob/main/minimal/nostalgia.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Unknown",
 		"collections": "minimal"
