@@ -1,12 +1,12 @@
 [
 {
-		"name": "Webp Image",
-		"author": "unknown",
-		"url": "https://www.gstatic.com/webp/gallery/4.webp",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
+		"name": "Nostalgia",
+		"author": "Saifur",
+		"url": "https://github.com/Paget96/pixr/blob/main/minimal/nostalgia.jpg",
+		"thumbnail": "https://github.com/Paget96/pixr/blob/main/minimal/nostalgia.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Unknown",
-		"collections": "landscapes"
+		"collections": "minimal"
 	},
 	{
 		"name": "Webp Image",
