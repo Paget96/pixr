@@ -2,8 +2,8 @@
 {
 		"name": "Nostalgia",
 		"author": "Saifur",
-		"url": "https://github.com/Paget96/pixr/blob/main/minimal/nostalgia.jpg",
-		"thumbnail": "https://github.com/Paget96/pixr/blob/main/minimal/nostalgia.jpg",
+		"url": "curl -H 'Authorization: token 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' -H 'Accept: application/vnd.github.v3.raw' -O -L https://github.com/Paget96/pixr/blob/main/minimal/nostalgia.jpg",
+		"thumbnail": "curl -H 'Authorization: token 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' -H 'Accept: application/vnd.github.v3.raw' -O -L https://github.com/Paget96/pixr/blob/main/minimal/nostalgia.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Unknown",
 		"collections": "minimal"
