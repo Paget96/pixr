@@ -7,23 +7,21 @@
 		"copyright": "Unknown",
 		"collections": "minimal"
 	},
-	{
-		"name": "Webp Image",
-		"author": "unknown",
-		"url": "https://www.gstatic.com/webp/gallery/4.webp",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
+````{
+		"name": "Pink Girl",
+		"author": "Saifur",
+		"url": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/pink_girl.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Unknown",
-		"collections": "landscapes"
+		"collections": "minimal"
 	},
 	{
-		"name": "Webp Image",
-		"author": "unknown",
-		"url": "https://www.gstatic.com/webp/gallery/4.webp",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
+		"name": "Time and Tide",
+		"author": "Saifur",
+		"url": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/time_and_tide.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Unknown",
-		"collections": "landscapes"
+		"collections": "minimal"
 	},
 {
 		"name": "Webp Image",
