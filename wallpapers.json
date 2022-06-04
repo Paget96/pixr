@@ -4,163 +4,143 @@
 		"author": "Saifur",
 		"url": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/nostalgia.jpg",
 		"dimensions": "3200x2560",
-		"copyright": "Unknown",
-		"collections": "minimal"
+		"copyright": "All the rights are going to the creator of the image",
+		"collections": "minimal",
+		"downloadable": false
 	},
     {
 		"name": "Pink Girl",
 		"author": "Saifur",
 		"url": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/pink_girl.jpg",
 		"dimensions": "3200x2560",
-		"copyright": "Unknown",
-		"collections": "minimal"
-	},
-	{
-		"name": "Time and Tide",
-		"author": "Saifur",
-		"url": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/time_and_tide.jpg",
-		"dimensions": "3200x2560",
-		"copyright": "Unknown",
-		"collections": "minimal"
-	},
-{
-		"name": "Webp Image",
-		"author": "unknown",
-		"url": "https://www.gstatic.com/webp/gallery/4.webp",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-		"dimensions": "3200x2560",
-		"copyright": "Unknown",
-		"collections": "landscapes"
-	},
-	{
-		"name": "ShotA",
-		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-		"collections": "featured,landscapes,people"
-	},
-	{
-		"name": "ShotB",
-		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-		"dimensions": "3200x2560",
-		"collections": "people,city",
+		"copyright": "All the rights are going to the creator of the image",
+		"collections": "minimal",
 		"downloadable": false
 	},
 	{
-		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-		"name": "ShotC",
-		"dimensions": "1280x720",
-		"copyright": "Credits to its creator",
-		"collections": "landscapes,city"
+		"name": "Time and Tide",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/time_and_tide.jpg",
+		"dimensions": "3200x2560",
+		"copyright": "All the rights are going to the creator of the image",
+		"collections": "minimal",
+		"downloadable": false
 	},
 	{
-		"name": "Wallsplash 1",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes,people,city",
-		"featured": true
+		"name": "Gradient",
+		"author": "Saifur",
+		"url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img1.png",
+		"dimensions": "2560x2560",
+		"copyright": "All the rights are going to the creator of the image",
+		"collections": "gradient",
+		"downloadable": false
 	},
 	{
-		"name": "Wallsplash 2",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes,people,food"
+		"name": "Gradient",
+		"author": "Saifur",
+		"url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img2.png",
+		"dimensions": "2560x2560",
+		"copyright": "All the rights are going to the creator of the image",
+		"collections": "gradient",
+		"downloadable": false
 	},
 	{
-		"name": "Wallsplash 3",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-		"thumbnail": "https://via.placeholder.com/450",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,food,people"
+		"name": "Gradient",
+		"author": "Saifur",
+		"url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img3.png",
+		"dimensions": "2560x2560",
+		"copyright": "All the rights are going to the creator of the image",
+		"collections": "gradient",
+		"downloadable": false
 	},
 	{
-		"name": "Wallsplash 4",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "landscapes,people,city"
+		"name": "Gradient",
+		"author": "Saifur",
+		"url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img4.png",
+		"dimensions": "2560x2560",
+		"copyright": "All the rights are going to the creator of the image",
+		"collections": "gradient",
+		"downloadable": false
 	},
 	{
-		"name": "Wallsplash 5",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes"
+		"name": "Gradient",
+		"author": "Saifur",
+		"url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img5.png",
+		"dimensions": "2560x2560",
+		"copyright": "All the rights are going to the creator of the image",
+		"collections": "gradient",
+		"downloadable": false
 	},
 	{
-		"name": "Wallsplash 6",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,people"
+		"name": "Gradient",
+		"author": "Saifur",
+		"url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img6.png",
+		"dimensions": "2560x2560",
+		"copyright": "All the rights are going to the creator of the image",
+		"collections": "gradient",
+		"downloadable": false
 	},
 	{
-		"name": "Wallsplash 7",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
-		"thumbnail": "https://via.placeholder.com/500",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "landscapes,people"
+		"name": "Gradient",
+		"author": "Saifur",
+		"url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img7.png",
+		"dimensions": "2560x2560",
+		"copyright": "All the rights are going to the creator of the image",
+		"collections": "gradient",
+		"downloadable": false
 	},
 	{
-		"name": "Wallsplash 8",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
-		"thumbnail": "https://via.placeholder.com/150",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "food"
+		"name": "Gradient",
+		"author": "Saifur",
+		"url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img8.png",
+		"dimensions": "2560x2560",
+		"copyright": "All the rights are going to the creator of the image",
+		"collections": "gradient",
+		"downloadable": false
 	},
 	{
-		"name": "Webp Image",
-		"author": "unknown",
-		"url": "https://www.gstatic.com/webp/gallery/4.webp",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-		"dimensions": "3200x2560",
-		"copyright": "Unknown",
-		"collections": "landscapes"
+		"name": "Gradient",
+		"author": "Saifur",
+		"url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img9.png",
+		"dimensions": "2560x2560",
+		"copyright": "All the rights are going to the creator of the image",
+		"collections": "gradient",
+		"downloadable": false
 	},
 	{
-		"name": "Halloween 1",
-		"author": "wallsplash",
-		"url": "https://images.unsplash.com/photo-1508361001413-7a9dca21d08a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=david-menidrey-MYRG0ptGh50-unsplash.jpg&w=640",
-		"thumbnail": "https://via.placeholder.com/150",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "halloween"
+		"name": "Gradient",
+		"author": "Saifur",
+		"url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img10.png",
+		"dimensions": "2560x2560",
+		"copyright": "All the rights are going to the creator of the image",
+		"collections": "gradient",
+		"downloadable": false
 	},
 	{
-		"name": "New Halloween",
-		"author": "wallsplash",
-		"url": "https://images.unsplash.com/photo-1592887714077-1c2ca9cdcf48?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=vino-li-W1py5swbJZY-unsplash.jpg&w=640",
-		"thumbnail": "https://via.placeholder.com/150",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "halloween, new year"
+		"name": "Gradient",
+		"author": "Saifur",
+		"url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img11.png",
+		"dimensions": "2560x2560",
+		"copyright": "All the rights are going to the creator of the image",
+		"collections": "gradient",
+		"downloadable": false
 	},
 	{
-		"name": "New Year",
-		"author": "wallsplash",
-		"url": "https://images.unsplash.com/photo-1546271876-af6caec5fae5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=andreas-dress-OUSa9MU4zZc-unsplash.jpg&w=640",
-		"thumbnail": "https://via.placeholder.com/150",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "new year, new"
+		"name": "Gradient",
+		"author": "Saifur",
+		"url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img12.png",
+		"dimensions": "2560x2560",
+		"copyright": "All the rights are going to the creator of the image",
+		"collections": "gradient",
+		"downloadable": false
+	},
+	{
+		"name": "Gradient",
+		"author": "Saifur",
+		"url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img13.png",
+		"dimensions": "2560x2560",
+		"copyright": "All the rights are going to the creator of the image",
+		"collections": "gradient",
+		"downloadable": false
 	}
 ]
