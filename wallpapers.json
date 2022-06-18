@@ -403,5 +403,59 @@
     "copyright": "All the rights are going to the creator of the image",
     "collections": "gradient",
     "downloadable": false
+  },
+  {
+    "name": "Arco red",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.1.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "colors",
+    "downloadable": false
+  },
+  {
+    "name": "Arco blue",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.2.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "colors",
+    "downloadable": false
+  },
+  {
+    "name": "Arco purple",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.3.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "colors",
+    "downloadable": false
+  },
+  {
+    "name": "Arco magenta",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.4.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "colors",
+    "downloadable": false
+  },
+  {
+    "name": "Arco orange",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.5.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "colors",
+    "downloadable": false
+  },
+  {
+    "name": "Arco cyan",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.6.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "colors",
+    "downloadable": false
   }
 ]
