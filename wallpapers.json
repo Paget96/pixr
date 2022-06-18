@@ -1,5 +1,257 @@
 [
   {
+    "name": "Gradient",
+    "author": "Saifur",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img13.png",
+    "dimensions": "2560x2560",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "gradient",
+    "downloadable": false
+  },
+  {
+    "name": "Blur purple",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/blur/Blur.Purple.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "blur",
+    "downloadable": false
+  },
+  {
+    "name": "Android orange",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Android.3.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "android",
+    "downloadable": false
+  },
+  {
+    "name": "Blur purple",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/blur/Blur.5.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "blur",
+    "downloadable": false
+  },
+  {
+    "name": "Nostalgia",
+    "author": "Saifur",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/nostalgia.jpg",
+    "dimensions": "3200x2560",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "minimal",
+    "downloadable": false
+  },
+  {
+    "name": "Papel purple",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/Papel.5.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "colors",
+    "downloadable": false
+  },
+  {
+    "name": "Gradient",
+    "author": "Saifur",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img6.png",
+    "dimensions": "2560x2560",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "gradient",
+    "downloadable": false
+  },
+  {
+    "name": "Papel red",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/Papel.4.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "colors",
+    "downloadable": false
+  },
+  {
+    "name": "Android yellow",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Android.4.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "android",
+    "downloadable": false
+  },
+  {
+    "name": "Papel teal",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/Papel.1.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "colors",
+    "downloadable": false
+  },
+  {
+    "name": "Arco orange",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.5.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "colors",
+    "downloadable": false
+  },
+  {
+    "name": "Android form magenta",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta6.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "android",
+    "downloadable": false
+  },
+  {
+    "name": "Time and Tide",
+    "author": "",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/time_and_tide.jpg",
+    "dimensions": "3200x2560",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "minimal",
+    "downloadable": false
+  },
+  {
+    "name": "Papel black",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/Papel.6.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "colors",
+    "downloadable": false
+  },
+  {
+    "name": "Arco purple",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.3.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "colors",
+    "downloadable": false
+  },
+  {
+    "name": "Android in leaves red",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Androide.3.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "android",
+    "downloadable": false
+  },
+  {
+    "name": "Papel gray",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/Papel.7.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "colors",
+    "downloadable": false
+  },
+  {
+    "name": "Papel orange",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/Papel.3.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "colors",
+    "downloadable": false
+  },
+  {
+    "name": "Pink Girl",
+    "author": "Saifur",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/pink_girl.jpg",
+    "dimensions": "3200x2560",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "minimal",
+    "downloadable": false
+  },
+  {
+    "name": "Android green",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Android.5.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "android",
+    "downloadable": false
+  },
+  {
+    "name": "Blur blue",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/blur/Blur.blue.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "blur",
+    "downloadable": false
+  },
+  {
+    "name": "Papel pink",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/Papel.2.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "colors",
+    "downloadable": false
+  },
+  {
+    "name": "Blur cyan",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/blur/Blur.cyan.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "blur",
+    "downloadable": false
+  },
+  {
+    "name": "Gradient",
+    "author": "Saifur",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img1.png",
+    "dimensions": "2560x2560",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "gradient",
+    "downloadable": false
+  },
+  {
+    "name": "Android tile",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Android.6.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "android",
+    "downloadable": false
+  },
+  {
+    "name": "Android form purple",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta3.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "android",
+    "downloadable": false
+  },
+  {
+    "name": "Gradient",
+    "author": "Saifur",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img7.png",
+    "dimensions": "2560x2560",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "gradient",
+    "downloadable": false
+  },
+  {
+    "name": "Gradient",
+    "author": "Saifur",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img3.png",
+    "dimensions": "2560x2560",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "gradient",
+    "downloadable": false
+  },
+  {
     "name": "Blur yellow",
     "author": "Martin Ayunta",
     "url": "https://raw.githubusercontent.com/Paget96/pixr/main/blur/Blur.Yellow.png",
@@ -15,6 +267,177 @@
     "dimensions": "1242x2688",
     "copyright": "All the rights are going to the creator of the image",
     "collections": "android",
+    "downloadable": false
+  },
+  {
+    "name": "Gradient",
+    "author": "Saifur",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img11.png",
+    "dimensions": "2560x2560",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "gradient",
+    "downloadable": false
+  },
+  {
+    "name": "Gradient",
+    "author": "Saifur",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img8.png",
+    "dimensions": "2560x2560",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "gradient",
+    "downloadable": false
+  },
+  {
+    "name": "Android form cyan",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta5.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "android",
+    "downloadable": false
+  },
+  {
+    "name": "Gradient",
+    "author": "Saifur",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img4.png",
+    "dimensions": "2560x2560",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "gradient",
+    "downloadable": false
+  },
+  {
+    "name": "Gradient",
+    "author": "Saifur",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img12.png",
+    "dimensions": "2560x2560",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "gradient",
+    "downloadable": false
+  },
+  {
+    "name": "Blur green",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/blur/Blur.3.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "blur",
+    "downloadable": false
+  },
+  {
+    "name": "Blur magenta",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/blur/Blur.1.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "blur",
+    "downloadable": false
+  },
+  {
+    "name": "Android pink",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Android.2.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "android",
+    "downloadable": false
+  },
+  {
+    "name": "Arco cyan",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.6.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "colors",
+    "downloadable": false
+  },
+  {
+    "name": "Android form black",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta7.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "android",
+    "downloadable": false
+  },
+  {
+    "name": "Arco red",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.1.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "colors",
+    "downloadable": false
+  },
+  {
+    "name": "Android in leaves green",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Androide.1.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "android",
+    "downloadable": false
+  },
+  {
+    "name": "Android form green",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta4.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "android",
+    "downloadable": false
+  },
+  {
+    "name": "Blur lima",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/blur/Blur.lima.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "blur",
+    "downloadable": false
+  },
+  {
+    "name": "Gradient",
+    "author": "Saifur",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img2.png",
+    "dimensions": "2560x2560",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "gradient",
+    "downloadable": false
+  },
+  {
+    "name": "Gradient",
+    "author": "Saifur",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img9.png",
+    "dimensions": "2560x2560",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "gradient",
+    "downloadable": false
+  },
+  {
+    "name": "Gradient",
+    "author": "Saifur",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img5.png",
+    "dimensions": "2560x2560",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "gradient",
+    "downloadable": false
+  },
+  {
+    "name": "Blur pink",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/blur/Blur.4.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "blur",
+    "downloadable": false
+  },
+  {
+    "name": "Blur red",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/blur/Blur.2.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "blur",
     "downloadable": false
   },
   {
@@ -36,12 +459,12 @@
     "downloadable": false
   },
   {
-    "name": "Blur red",
+    "name": "Android form red",
     "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/blur/Blur.2.png",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta1.png",
     "dimensions": "1242x2688",
     "copyright": "All the rights are going to the creator of the image",
-    "collections": "blur",
+    "collections": "android",
     "downloadable": false
   },
   {
@@ -54,51 +477,6 @@
     "downloadable": false
   },
   {
-    "name": "Gradient",
-    "author": "Saifur",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img10.png",
-    "dimensions": "2560x2560",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "gradient",
-    "downloadable": false
-  },
-  {
-    "name": "Android in leaves green",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Androide.1.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "android",
-    "downloadable": false
-  },
-  {
-    "name": "Gradient",
-    "author": "Saifur",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img9.png",
-    "dimensions": "2560x2560",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "gradient",
-    "downloadable": false
-  },
-  {
-    "name": "Gradient",
-    "author": "Saifur",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img11.png",
-    "dimensions": "2560x2560",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "gradient",
-    "downloadable": false
-  },
-  {
-    "name": "Android pink",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Android.2.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "android",
-    "downloadable": false
-  },
-  {
     "name": "Android purple",
     "author": "Martin Ayunta",
     "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Android.1.png",
@@ -108,324 +486,9 @@
     "downloadable": false
   },
   {
-    "name": "Blur green",
+    "name": "Papel green",
     "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/blur/Blur.3.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "blur",
-    "downloadable": false
-  },
-  {
-    "name": "Blur purple",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/blur/Blur.Purple.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "blur",
-    "downloadable": false
-  },
-  {
-    "name": "Blur purple",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/blur/Blur.5.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "blur",
-    "downloadable": false
-  },
-  {
-    "name": "Android in leaves purple",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Androide.2.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "android",
-    "downloadable": false
-  },
-  {
-    "name": "Blur blue",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/blur/Blur.blue.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "blur",
-    "downloadable": false
-  },
-  {
-    "name": "Gradient",
-    "author": "Saifur",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img7.png",
-    "dimensions": "2560x2560",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "gradient",
-    "downloadable": false
-  },
-  {
-    "name": "Blur magenta",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/blur/Blur.1.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "blur",
-    "downloadable": false
-  },
-  {
-    "name": "Gradient",
-    "author": "Saifur",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img4.png",
-    "dimensions": "2560x2560",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "gradient",
-    "downloadable": false
-  },
-  {
-    "name": "Time and Tide",
-    "author": "",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/time_and_tide.jpg",
-    "dimensions": "3200x2560",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "minimal",
-    "downloadable": false
-  },
-  {
-    "name": "Android tile",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Android.6.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "android",
-    "downloadable": false
-  },
-  {
-    "name": "Android orange",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Android.3.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "android",
-    "downloadable": false
-  },
-  {
-    "name": "Gradient",
-    "author": "Saifur",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img3.png",
-    "dimensions": "2560x2560",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "gradient",
-    "downloadable": false
-  },
-  {
-    "name": "Gradient",
-    "author": "Saifur",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img2.png",
-    "dimensions": "2560x2560",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "gradient",
-    "downloadable": false
-  },
-  {
-    "name": "Gradient",
-    "author": "Saifur",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img6.png",
-    "dimensions": "2560x2560",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "gradient",
-    "downloadable": false
-  },
-  {
-    "name": "Gradient",
-    "author": "Saifur",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img12.png",
-    "dimensions": "2560x2560",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "gradient",
-    "downloadable": false
-  },
-  {
-    "name": "Blur cyan",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/blur/Blur.cyan.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "blur",
-    "downloadable": false
-  },
-  {
-    "name": "Android form cyan",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta5.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "android",
-    "downloadable": false
-  },
-  {
-    "name": "Android form magenta",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta6.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "android",
-    "downloadable": false
-  },
-  {
-    "name": "Android yellow",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Android.4.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "android",
-    "downloadable": false
-  },
-  {
-    "name": "Blur pink",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/blur/Blur.4.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "blur",
-    "downloadable": false
-  },
-  {
-    "name": "Android in leaves red",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Androide.3.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "android",
-    "downloadable": false
-  },
-  {
-    "name": "Android form green",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta4.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "android",
-    "downloadable": false
-  },
-  {
-    "name": "Android green",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Android.5.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "android",
-    "downloadable": false
-  },
-  {
-    "name": "Android form black",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta7.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "android",
-    "downloadable": false
-  },
-  {
-    "name": "Android form purple",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta3.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "android",
-    "downloadable": false
-  },
-  {
-    "name": "Blur lima",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/blur/Blur.lima.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "blur",
-    "downloadable": false
-  },
-  {
-    "name": "Pink Girl",
-    "author": "Saifur",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/pink_girl.jpg",
-    "dimensions": "3200x2560",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "minimal",
-    "downloadable": false
-  },
-  {
-    "name": "Nostalgia",
-    "author": "Saifur",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/nostalgia.jpg",
-    "dimensions": "3200x2560",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "minimal",
-    "downloadable": false
-  },
-  {
-    "name": "Android form red",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta1.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "android",
-    "downloadable": false
-  },
-  {
-    "name": "Gradient",
-    "author": "Saifur",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img8.png",
-    "dimensions": "2560x2560",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "gradient",
-    "downloadable": false
-  },
-  {
-    "name": "Gradient",
-    "author": "Saifur",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img1.png",
-    "dimensions": "2560x2560",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "gradient",
-    "downloadable": false
-  },
-  {
-    "name": "Gradient",
-    "author": "Saifur",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img5.png",
-    "dimensions": "2560x2560",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "gradient",
-    "downloadable": false
-  },
-  {
-    "name": "Gradient",
-    "author": "Saifur",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img13.png",
-    "dimensions": "2560x2560",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "gradient",
-    "downloadable": false
-  },
-  {
-    "name": "Arco red",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.1.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "colors",
-    "downloadable": false
-  },
-  {
-    "name": "Arco blue",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.2.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "colors",
-    "downloadable": false
-  },
-  {
-    "name": "Arco purple",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.3.png",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/Papel.0.png",
     "dimensions": "1242x2688",
     "copyright": "All the rights are going to the creator of the image",
     "collections": "colors",
@@ -441,21 +504,30 @@
     "downloadable": false
   },
   {
-    "name": "Arco orange",
+    "name": "Arco blue",
     "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.5.png",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.2.png",
     "dimensions": "1242x2688",
     "copyright": "All the rights are going to the creator of the image",
     "collections": "colors",
     "downloadable": false
   },
   {
-    "name": "Arco cyan",
+    "name": "Android in leaves purple",
     "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.6.png",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Androide.2.png",
     "dimensions": "1242x2688",
     "copyright": "All the rights are going to the creator of the image",
-    "collections": "colors",
+    "collections": "android",
+    "downloadable": false
+  },
+  {
+    "name": "Gradient",
+    "author": "Saifur",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img10.png",
+    "dimensions": "2560x2560",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "gradient",
     "downloadable": false
   }
 ]
