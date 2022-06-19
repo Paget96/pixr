@@ -110,16 +110,6 @@
     "downloadable": false
   },
   {
-    "name": "Android form magenta",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta6.png",
-	"thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta6_thumb.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "android",
-    "downloadable": false
-  },
-  {
     "name": "Time and Tide",
     "author": "",
     "url": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/time_and_tide.jpg",
@@ -250,16 +240,6 @@
     "downloadable": false
   },
   {
-    "name": "Android form purple",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta3.png",
-	"thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta3_thumb.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "android",
-    "downloadable": false
-  },
-  {
     "name": "Gradient",
     "author": "Saifur",
     "url": "https://raw.githubusercontent.com/Paget96/pixr/main/gradient/img7.png",
@@ -317,16 +297,6 @@
     "dimensions": "2560x2560",
     "copyright": "All the rights are going to the creator of the image",
     "collections": "gradient",
-    "downloadable": false
-  },
-  {
-    "name": "Android form cyan",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta5.png",
-	"thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta5_thumb.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "android",
     "downloadable": false
   },
   {
@@ -390,16 +360,6 @@
     "downloadable": false
   },
   {
-    "name": "Android form black",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta7.png",
-	"thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta7_thumb.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "android",
-    "downloadable": false
-  },
-  {
     "name": "Arco red",
     "author": "Martin Ayunta",
     "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.1.png",
@@ -414,16 +374,6 @@
     "author": "Martin Ayunta",
     "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Androide.1.png",
 	"thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Androide.1_thumb.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "android",
-    "downloadable": false
-  },
-  {
-    "name": "Android form green",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta4.png",
-	"thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta4_thumb.png",
     "dimensions": "1242x2688",
     "copyright": "All the rights are going to the creator of the image",
     "collections": "android",
@@ -497,26 +447,6 @@
     "dimensions": "1242x2688",
     "copyright": "All the rights are going to the creator of the image",
     "collections": "blur",
-    "downloadable": false
-  },
-  {
-    "name": "Android form blue",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta2.png",
-	"thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta2_thumb.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "android",
-    "downloadable": false
-  },
-  {
-    "name": "Android form red",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta1.png",
-	"thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Forms_3beta1_thumb.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "android",
     "downloadable": false
   },
   {
