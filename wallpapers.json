@@ -489,4 +489,76 @@
     "collections": "colors",
     "downloadable": false
   }
+  
+  ,
+  {
+    "name": "Befree",
+    "author": "Saifur",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/be_free_min2.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/be_free_min2_thumb.jpg",
+    "dimensions": "4320x7680",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "minimal",
+    "downloadable": false
+  },
+  {
+    "name": "Befree",
+    "author": "Saifur",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/be_free_min1.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/be_free_min1_thumb.jpg",
+    "dimensions": "4320x7680",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "minimal",
+    "downloadable": false
+  },
+  {
+    "name": "Goku",
+    "author": "Saifur",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/g_min.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/g_min_thumb.jpg",
+    "dimensions": "4320x7680",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "minimal",
+    "downloadable": false
+  },
+  {
+    "name": "It's Locked",
+    "author": "Saifur",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/its_locked_min.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/its_locked_min_thumb.jpg",
+    "dimensions": "4320x7680",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "minimal",
+    "downloadable": false
+  },
+  {
+    "name": "Pain make us strong",
+    "author": "Saifur",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/pain_make_us_strong.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/pain_make_us_strong_thumb.jpg",
+    "dimensions": "4320x7680",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "minimal",
+    "downloadable": false
+  },
+  {
+    "name": "Pokeball",
+    "author": "Saifur",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/pokeball_min.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/pokeball_min_thumb.jpg",
+    "dimensions": "4320x7680",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "minimal",
+    "downloadable": false
+  },
+  {
+    "name": "Triangle",
+    "author": "Saifur",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/triangle_min.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/triangle_min_thumb.jpg",
+    "dimensions": "4320x7680",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "minimal",
+    "downloadable": false
+  }
 ]
