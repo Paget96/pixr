@@ -458,5 +458,35 @@
     "copyright": "All the rights are going to the creator of the image",
     "collections": "gradient",
     "downloadable": false
+  },
+  {
+    "name": "Deer",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/earth/deer.png",
+	"thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/earth/deer_thumb.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "earth,animals",
+    "downloadable": false
+  },
+  {
+    "name": "Birds",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/earth/warm.png",
+	"thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/earth/warm_thumb.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "earth,animals",
+    "downloadable": false
+  },
+  {
+    "name": "Catys",
+    "author": "Martin Ayunta",
+    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/earth/catys.png",
+	"thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/earth/catys_thumb.png",
+    "dimensions": "1242x2688",
+    "copyright": "All the rights are going to the creator of the image",
+    "collections": "earth,animals",
+    "downloadable": false
   }
 ]
