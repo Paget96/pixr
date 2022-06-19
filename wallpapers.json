@@ -100,16 +100,6 @@
     "downloadable": false
   },
   {
-    "name": "Arco orange",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.5.png",
-	"thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.5_thumb.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "colors",
-    "downloadable": false
-  },
-  {
     "name": "Time and Tide",
     "author": "",
     "url": "https://raw.githubusercontent.com/Paget96/pixr/main/minimal/time_and_tide.jpg",
@@ -124,16 +114,6 @@
     "author": "Martin Ayunta",
     "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/Papel.6.png",
 	"thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/Papel.6_thumb.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "colors",
-    "downloadable": false
-  },
-  {
-    "name": "Arco purple",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.3.png",
-	"thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.3_thumb.png",
     "dimensions": "1242x2688",
     "copyright": "All the rights are going to the creator of the image",
     "collections": "colors",
@@ -350,26 +330,6 @@
     "downloadable": false
   },
   {
-    "name": "Arco cyan",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.6.png",
-	"thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.6_thumb.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "colors",
-    "downloadable": false
-  },
-  {
-    "name": "Arco red",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.1.png",
-	"thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.1_thumb.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "colors",
-    "downloadable": false
-  },
-  {
     "name": "Android in leaves green",
     "author": "Martin Ayunta",
     "url": "https://raw.githubusercontent.com/Paget96/pixr/main/android/Androide.1.png",
@@ -474,26 +434,6 @@
     "author": "Martin Ayunta",
     "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/Papel.0.png",
 	"thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/Papel.0_thumb.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "colors",
-    "downloadable": false
-  },
-  {
-    "name": "Arco magenta",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.4.png",
-	"thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.4_thumb.png",
-    "dimensions": "1242x2688",
-    "copyright": "All the rights are going to the creator of the image",
-    "collections": "colors",
-    "downloadable": false
-  },
-  {
-    "name": "Arco blue",
-    "author": "Martin Ayunta",
-    "url": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.2.png",
-	"thumbnail": "https://raw.githubusercontent.com/Paget96/pixr/main/colors/arco.2_thumb.png",
     "dimensions": "1242x2688",
     "copyright": "All the rights are going to the creator of the image",
     "collections": "colors",
